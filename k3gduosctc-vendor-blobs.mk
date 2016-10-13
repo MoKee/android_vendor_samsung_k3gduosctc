@@ -79,7 +79,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/k3gduosctc/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/k3gduosctc/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/k3gduosctc/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/k3gduosctc/proprietary/lib/libsec-ril-cdma.so:system/lib/libsec-ril-cdma.so \
+    vendor/samsung/k3gduosctc/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/k3gduosctc/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/k3gduosctc/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/k3gduosctc/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
